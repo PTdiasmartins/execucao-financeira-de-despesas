@@ -23,8 +23,8 @@ Meu objetivo envolve uma análise OLAP de uma execução financeira na qual irei
     
 <p align="justify"> 
 Um fluxograma é uma representação gráfica de um processo ou sistema, mostrando a sequência de etapas, decisões, atividades e conexões entre elas. É uma ferramenta amplamente utilizada para visualizar e documentar processos de trabalho, fluxos de informações, tomadas de decisões e outras atividades.
- <img src="./Fluxograma do Projeto(parte 2)/Fluxograma Execução financeira de despesas.png">
 </p>
+ <img src="./Fluxograma do Projeto(parte 2)/Fluxograma Execução financeira de despesas.png">
 <br>
 
 <br>
