@@ -1,7 +1,0 @@
-Este projeto consiste em uma análise de um banco relacional proviniente de um backup sobre uma execução financeira de despesa do governo durante 4 anos. Afirmo que esses dados são ficticios... 
-Irei tratar a integridade destes dados sem alterar o banco relacional e modelar esses dados a partir da criação do datawarehouse;
-Mostrarei 2 tipos de schemas(Star e Snowflake);
-ETL manualmente utilizando a SQL;
-Criei medições com a linguagem DAX do powerbi para algortimos de representação gráfica;
-
-Meu objetivo envolve uma análise OLAP de uma execução financeira na qual irei mostrar empenhos gerais e dividas ativas de orgão, programa, função e subfunção...
