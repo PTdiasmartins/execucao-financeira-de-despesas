@@ -32,9 +32,9 @@ Um fluxograma é uma representação gráfica de um processo ou sistema, mostran
 ## 3. Modelo Conceitual do Banco Relacional do Backup
 
 <p align="justify">
-Um modelo conceitual de um banco de dados relacional é uma representação abstrata dos conceitos e relações envolvidos em um sistema de gerenciamento de banco de dados relacional.
+- Um modelo conceitual de um banco de dados relacional é uma representação abstrata dos conceitos e relações envolvidos em um sistema de gerenciamento de banco de dados relacional.
 
-Este modelo conceitual é proviniente do backup na qual existe uma entidade(financeiro) e 37 atributos(1 Identificador e 36 simples)
+- Este modelo conceitual é proviniente do backup na qual existe uma entidade(financeiro) e 37 atributos(1 Identificador e 36 simples)
 
 </p>
  <img src="./Modelo Conceitual do Banco Relacional do Backup/Captura de tela 2023-07-07 201731.png">
@@ -45,16 +45,16 @@ Este modelo conceitual é proviniente do backup na qual existe uma entidade(fina
 ## 4. Investigação do banco relacional em SQL
 
 - Investigação de colunas com dados ausentes.
-<br>
 - Essa investigação consiste compreender a quantidade dados ausentes para em seguida implementar no banco dimensional com filtros adequados para evitar analises dados nulos que podem ser prejudicial na analise.
+- [Investigação do banco relacional em SQL](https://github.com/PTdiasmartins/execucao-financeira-de-despesas/tree/main/Investiga%C3%A7%C3%A3o%20do%20banco%20relacional%20em%20SQL%20(parte%204))
 
 <br>
 
 <br>
 
-## 5. Datawarehouse completo
+## 5. Datawarehouse
 
-- [Datawarehouse completo](https://github.com/PTdiasmartins/execucao-financeira-de-despesas/tree/main/Datawarehouse%20completo)
+- [Datawarehouse (code)](https://github.com/PTdiasmartins/execucao-financeira-de-despesas/tree/main/Datawarehouse%20completo)
 <br>
 
 <br>
@@ -70,7 +70,7 @@ Este modelo conceitual é proviniente do backup na qual existe uma entidade(fina
 
 - Data Mart é um subconjunto de um data warehouse que contém dados específicos de um determinado departamento, área de negócio ou necessidades de análise. É projetado para fornecer informações detalhadas e específicas para usuários finais que possuem requisitos de análise direcionados.
 
-- [Datawarehouse completo](https://github.com/PTdiasmartins/execucao-financeira-de-despesas/tree/main/Data%20Mart)
+- [Data Mart (code)](https://github.com/PTdiasmartins/execucao-financeira-de-despesas/tree/main/Data%20Mart)
 
 <br>
 
