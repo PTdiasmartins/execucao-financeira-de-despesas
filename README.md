@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <p align="center">Documentação do Código de Criação das Tabelas de Dimensão e Fatos<p>
+    <p align="center">Documentação do Código de Execução Financeira de Despesas<p>
 </h1>
 
 ## 1. Introdução do Projeto
