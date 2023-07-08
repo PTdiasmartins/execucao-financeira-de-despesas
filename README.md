@@ -32,10 +32,9 @@ Um fluxograma é uma representação gráfica de um processo ou sistema, mostran
 ## 3. Modelo Conceitual do Banco Relacional do Backup
 
 <p align="justify">
-- Um modelo conceitual de um banco de dados relacional é uma representação abstrata dos conceitos e relações envolvidos em um sistema de gerenciamento de banco de dados relacional.
+ Um modelo conceitual de um banco de dados relacional é uma representação abstrata dos conceitos e relações envolvidos em um sistema de gerenciamento de banco de dados relacional.
 
-- Este modelo conceitual é proviniente do backup na qual existe uma entidade(financeiro) e 37 atributos(1 Identificador e 36 simples)
-
+ Este modelo conceitual é proviniente do backup na qual existe uma entidade(financeiro) e 37 atributos(1 Identificador e 36 simples)
 </p>
  <img src="./Modelo Conceitual do Banco Relacional do Backup/Captura de tela 2023-07-07 201731.png">
 <br>
@@ -46,7 +45,7 @@ Um fluxograma é uma representação gráfica de um processo ou sistema, mostran
 
 - Investigação de colunas com dados ausentes.
 - Essa investigação consiste compreender a quantidade dados ausentes para em seguida implementar no banco dimensional com filtros adequados para evitar analises dados nulos que podem ser prejudicial na analise.
-- [Investigação do banco relacional em SQL](https://github.com/PTdiasmartins/execucao-financeira-de-despesas/tree/main/Investiga%C3%A7%C3%A3o%20do%20banco%20relacional%20em%20SQL%20(parte%204))
+- [Investigação do banco relacional em SQL (code)](https://github.com/PTdiasmartins/execucao-financeira-de-despesas/tree/main/Investiga%C3%A7%C3%A3o%20do%20banco%20relacional%20em%20SQL%20(parte%204))
 
 <br>
 
@@ -64,7 +63,14 @@ Um fluxograma é uma representação gráfica de um processo ou sistema, mostran
 - O Snowflake Schema (esquema floco de neve) é um modelo de design de banco de dados utilizado em data warehousing, que é uma variação do esquema estrela. No esquema floco de neve, as dimensões são normalizadas em tabelas adicionais de forma hierarquica, resultando em uma estrutura mais complexa em comparação com o esquema estrela. A principal vantagem do esquema floco de neve é a economia de espaço de armazenamento em comparação com o esquema estrela, pois a normalização reduz a redundância de dados.
 
 - O Star Schema (esquema estrela) é um modelo de design de banco de dados usado em data warehousing para organizar os dados de forma a facilitar a análise e a geração de relatórios. É chamado de "esquema estrela" porque sua estrutura se assemelha a uma estrela, com uma tabela de fatos no centro e tabelas de dimensões que se conectam a ela como os raios de uma estrela.
+
 <br>
+
+<img src="./Modelagens do Datawarehouse/snowflake.jpg">
+
+<br>
+<img src="./Modelagens do Datawarehouse/starschema.jpg">
+
 
 ## 7. Data Mart
 
