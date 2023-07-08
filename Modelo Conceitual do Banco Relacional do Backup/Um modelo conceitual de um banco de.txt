@@ -1,3 +1,0 @@
-Um modelo conceitual de um banco de dados relacional é uma representação abstrata dos conceitos e relações envolvidos em um sistema de gerenciamento de banco de dados relacional.
-
-Este modelo conceitual é proviniente do backup na qual existe uma entidade(financeiro) e 37 atributos(1 Identificador e 36 simples)
