@@ -54,6 +54,7 @@ Este modelo conceitual é proviniente do backup na qual existe uma entidade(fina
 
 ## 5. Datawarehouse completo
 
+- [Datawarehouse completo](https://github.com/PTdiasmartins/execucao-financeira-de-despesas/tree/main/Datawarehouse%20completo)
 <br>
 
 <br>
@@ -67,7 +68,9 @@ Este modelo conceitual é proviniente do backup na qual existe uma entidade(fina
 
 ## 7. Data Mart
 
-<br>
+- Data Mart é um subconjunto de um data warehouse que contém dados específicos de um determinado departamento, área de negócio ou necessidades de análise. É projetado para fornecer informações detalhadas e específicas para usuários finais que possuem requisitos de análise direcionados.
+
+- [Datawarehouse completo](https://github.com/PTdiasmartins/execucao-financeira-de-despesas/tree/main/Data%20Mart)
 
 <br>
 
