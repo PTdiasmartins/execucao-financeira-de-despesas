@@ -66,11 +66,11 @@ Um fluxograma é uma representação gráfica de um processo ou sistema, mostran
 
 <br>
 
-<img src="./Modelagens do Datawarehouse/snowflake.jpg">
+<img src="./Modelagens do Datawarehouse/Snowflake Execucao_Financeira.pdf
+">
 
 <br>
-<img src="./Modelagens do Datawarehouse/starschema.jpg">
-
+<img src="./Modelagens do Datawarehouse/new-snowflake.jpg">
 
 ## 7. Data Mart
 
@@ -80,12 +80,26 @@ Um fluxograma é uma representação gráfica de um processo ou sistema, mostran
 
 <br>
 
-## 8. Power BI
+## 8. PowerBI
 
 - Modelagem proviniente do carregamento de dados a partir da ETL.
 Sobre a ETL: Devido o conhecimento sólido em SQL utilizei funções e comandos na quais tratou a integridade dos dados evitando inconsistencia desses dados com seus respectivos relacionamentos(Primary key e Foreign Key).
 
 <img src="./PowerBI/Modelagem do PowerBI.png">
+
+<br>
+
+<br>
+
+## 9. Dashboard PowerBI
+
+- Este é um PowerBI destinado a  uma interpretação  de  execuções  financeiras de despesas proveniente de dados fictícios por órgão, programa, função e subfunção. Segui com análise OLAP(desnormalizada) em período  de tempo : mensal, semestral e anual(2018-2022).
+
+Com a coleta de dados, interpretação de forma adequada e coerência alinhada a estratégia corporativa, podemos fornecer insights valiosos na qual irá auxiliar a tomada de decisão através da gerência corporativa.
+
+Criei medidas(algoritmos) com a Linguagens Dax para representação gráfica, onde busco tornar a análise mais explícita..
+
+<img src="./PowerBI/dashboard-powerbi.jpg">
 
 <br>
 
