@@ -66,8 +66,7 @@ Um fluxograma é uma representação gráfica de um processo ou sistema, mostran
 
 <br>
 
-<img src="./Modelagens do Datawarehouse/Snowflake Execucao_Financeira.pdf
-">
+<img src="./Modelagens do Datawarehouse/Snowflake Execucao_Financeira (1).png">
 
 <br>
 <img src="./Modelagens do Datawarehouse/new-snowflake.jpg">
@@ -95,9 +94,9 @@ Sobre a ETL: Devido o conhecimento sólido em SQL utilizei funções e comandos 
 
 - Este é um PowerBI destinado a  uma interpretação  de  execuções  financeiras de despesas proveniente de dados fictícios por órgão, programa, função e subfunção. Segui com análise OLAP(desnormalizada) em período  de tempo : mensal, semestral e anual(2018-2022).
 
-Com a coleta de dados, interpretação de forma adequada e coerência alinhada a estratégia corporativa, podemos fornecer insights valiosos na qual irá auxiliar a tomada de decisão através da gerência corporativa.
+- Com a coleta de dados, interpretação de forma adequada e coerência alinhada a estratégia corporativa, podemos fornecer insights valiosos na qual irá auxiliar a tomada de decisão através da gerência corporativa.
 
-Criei medidas(algoritmos) com a Linguagens Dax para representação gráfica, onde busco tornar a análise mais explícita..
+- Criei medidas(algoritmos) com a Linguagens Dax para representação gráfica, onde busco tornar a análise mais explícita..
 
 <img src="./PowerBI/dashboard-powerbi.jpg">
 
