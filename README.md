@@ -79,7 +79,7 @@ Um fluxograma é uma representação gráfica de um processo ou sistema, mostran
 
 <br>
 
-## 8. PowerBI
+## 8. PowerBI linguagem M
 
 - Modelagem proviniente do carregamento de dados a partir da ETL.
 Sobre a ETL: Devido o conhecimento sólido em SQL utilizei funções e comandos na quais tratou a integridade dos dados evitando inconsistencia desses dados com seus respectivos relacionamentos(Primary key e Foreign Key).
